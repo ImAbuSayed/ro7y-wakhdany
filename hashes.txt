@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ro7y wakhdany
+
+This log tracks the cryptographic history and versioning for the song **Ro7y wakhdany** (ro7y-wakhdany).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-27T03:17:10.393484 | `v1` | `468c9ab1d40ee42bf6e4600603b99aa28f751b3142411ec646aca592ab0ba59e` | `7427d344836e723fa90255fcd92853a85e00126c65ac4e542f892a329d8862d2` | `2026-06-27_ro7y-wakhdany-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
