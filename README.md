@@ -21,7 +21,7 @@
 | **Released On** | June 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ro7y-wakhdany/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Ro7y wakhdany](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=wcqNpZHsjzM?https://imabusayed.github.io/ro7y-wakhdany/) |
+| **Get License** | [Get License For Ro7y wakhdany](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=wcqNpZHsjzM?https://imabusayed.github.io/ro7y-wakhdany/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
